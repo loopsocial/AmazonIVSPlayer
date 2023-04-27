@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [],
     targets: [
         .binaryTarget(
-            name: "AmazonIVSPLayer",
+            name: "AmazonIVSPlayer",
             url: "https://github.com/loopsocial/AmazonIVSPlayer/releases/download/v1.8.3/AmazonIVSPlayer.xcframework.zip",
             checksum: "8a34010c9b85bee9c152667d70058e55de753535afbe54ae08835ace87d85d87"
         )
